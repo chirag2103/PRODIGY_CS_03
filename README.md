@@ -13,7 +13,7 @@ An interactive and user-friendly password strength checker application built wit
 
 ## Screenshot
 
-![Screenshot](https://via.placeholder.com/400x300?text=Password+Strength+Checker+Screenshot)
+![Screenshot](screenshot.png)
 
 ## Installation
 
