@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-![Password Strength Checker](screenshot.png)
+![Password Strength Checker](Screenshot.png)
 
 An interactive and user-friendly password strength checker application built with Python and Tkinter. This tool helps users assess the strength of their passwords based on various criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters.
 
@@ -13,7 +13,7 @@ An interactive and user-friendly password strength checker application built wit
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Installation
 
