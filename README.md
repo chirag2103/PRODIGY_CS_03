@@ -13,7 +13,7 @@ An interactive and user-friendly password strength checker application built wit
 
 ## Screenshot
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot2.png)
 
 ## Installation
 
