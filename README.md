@@ -19,7 +19,7 @@ An interactive and user-friendly password strength checker application built wit
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/password-strength-checker.git
+    git clone https://github.com/chirag2103/password-strength-checker.git
     ```
 2. **Navigate to the project directory**:
     ```sh
